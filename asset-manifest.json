@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Tic-Tac-Toe-React/static/css/main.d1c0fa2c.css",
-    "main.js": "/Tic-Tac-Toe-React/static/js/main.b5b87c90.js",
+    "main.css": "/Tic-Tac-Toe-React/static/css/main.40623bbf.css",
+    "main.js": "/Tic-Tac-Toe-React/static/js/main.6ac80f13.js",
     "static/media/draw.mp3": "/Tic-Tac-Toe-React/static/media/draw.0bd51aa3a2fe1cf1f2c6.mp3",
     "static/media/win.mp3": "/Tic-Tac-Toe-React/static/media/win.515fcb9419b9016a3184.mp3",
     "static/media/click.mp3": "/Tic-Tac-Toe-React/static/media/click.4ced537f0ccf5c1ee2a1.mp3",
     "index.html": "/Tic-Tac-Toe-React/index.html",
-    "main.d1c0fa2c.css.map": "/Tic-Tac-Toe-React/static/css/main.d1c0fa2c.css.map",
-    "main.b5b87c90.js.map": "/Tic-Tac-Toe-React/static/js/main.b5b87c90.js.map"
+    "main.40623bbf.css.map": "/Tic-Tac-Toe-React/static/css/main.40623bbf.css.map",
+    "main.6ac80f13.js.map": "/Tic-Tac-Toe-React/static/js/main.6ac80f13.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1c0fa2c.css",
-    "static/js/main.b5b87c90.js"
+    "static/css/main.40623bbf.css",
+    "static/js/main.6ac80f13.js"
   ]
 }
